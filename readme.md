@@ -7,7 +7,6 @@
 </div>
 
 <div style="float: left">
-<br>
 
 - 🌍 I'm based in Balıkesir/**Turkey**
 
@@ -17,11 +16,10 @@
 
 - 📫 Connect with me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-recepurkunn-orange?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/recepurkunn )
 </div>
+
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-<kbd>
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  width="400" height="200" /> </kbd>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  width="400" height="200" /> 
 
 
 
