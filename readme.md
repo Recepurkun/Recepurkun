@@ -10,6 +10,8 @@
 
 - 🌍 I'm based in Balıkesir/**Turkey**
 
+- 🔭 I’m currently working on [Turkcell Geleceği Yazanlar-Gençlere Yatırım Geleceğe Yazılım 3.0](https://github.com/waroi/TurkcellFrontend2024/tree/main/Ogrenciler/RecepUrkun)
+
 - 🌱 I’m currently learning **React**
 
 - 📧 How to reach me: **recep.urkun@hotmail.com**
