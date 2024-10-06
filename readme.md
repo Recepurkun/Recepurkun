@@ -1,10 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Recep</h1>
 
----
-
 <div align="left">
 
-- 🌍 I'm based in Bursa/**Turkey**
+- 🌍 I'm based in **Bursa/Turkey**
 
 - 🌱 I’m currently learning **React/NextJS**
 
@@ -25,9 +23,8 @@
 
 <br>
 
-<div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=recepurkun&show_icons=true&locale=en&layout=compact&theme=onedark" alt="recepurkun" /></p>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Recepurkun&theme=onedark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500" /> </p>
-</div>
-
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=recepurkun&show_icons=true&locale=en&layout=compact&theme=onedark&width=500&border_radius=12" alt="recepurkun" height=200 />
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Recepurkun&theme=onedark&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&card" height=200 />
+</p>
