@@ -11,6 +11,8 @@
 - 📫 Connect with me:  <a href="https://linkedin.com/in/recepurkunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recep-urkun" height="20" width="30" /></a>
 </div> 
 
+- [![wakatime](https://wakatime.com/badge/user/056088f7-cb31-4ec2-896d-360046ddaeac.svg)](https://wakatime.com/@056088f7-cb31-4ec2-896d-360046ddaeac)
+
 <h2 align="left">💻 Languages and Tools:</h2>
 
 <div align="center">
